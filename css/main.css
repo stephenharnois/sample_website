@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.whale-image {
+    display: block;
+    margin: 0 auto;
+}
+.nav {
+    text-decoration: none;
+    color: black;
+}
+.nav-menu {
+    text-align: right;
+}
+.nav-spacing {
+    margin-left: 10px;
+}
+.callout {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #eaeaea;
+}
+.callout img {
+    float: left;
+    margin-right: 40px;
+}
+.callout blockquote {
+    font-style: italic;
+    font-size: 20px;
+}
+.callout-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ff0000;
+}
